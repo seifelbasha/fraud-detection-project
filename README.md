@@ -1,17 +1,17 @@
 # Credit Card Fraud Detection and Analysis
-### Graduation Project – DEPI Initiative
-### Ministry of Communications and Information Technology
+Graduation Project – DEPI Initiative
+Ministry of Communications and Information Technology
 
-🔍 Overview
+# Overview
 This machine learning project focuses on detecting fraudulent credit card transactions using structured transactional data. The end-to-end pipeline covers data preprocessing, feature engineering, unsupervised clustering, model training, evaluation, and visualization.
 
-💾 Dataset
+# Dataset
 The dataset contains anonymized credit card transactions along with metadata such as transaction amount, time, customer behavior flags, and fraud labels. The goal is to identify fraudulent patterns and build a reliable fraud detection system.
 
-📌 Objective
+# Objective
 The primary objective is to predict whether a transaction is fraudulent, based on historical data and engineered features, while analyzing customer and terminal behavior patterns.
 
-🧩 Project Milestones
+# Project Milestones
 Data Preprocessing & Cleaning
 
 Converted timestamp columns to datetime format
@@ -52,5 +52,5 @@ Count plots, heatmaps, and temporal patterns
 
 Correlation analysis of key features
 
-⚙️ Getting Started
+# Getting Started
 To run the project locally:
