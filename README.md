@@ -12,17 +12,17 @@ The dataset contains anonymized credit card transactions along with metadata suc
 The primary objective is to predict whether a transaction is fraudulent, based on historical data and engineered features, while analyzing customer and terminal behavior patterns.
 
 # Project Milestones
-) Data Collection & Preprocessing: Load the fraud dataset, explore the data, and clean it.
+- Data Collection & Preprocessing: Load the fraud dataset, explore the data, and clean it.
 
-- **Feature Engineering & Analysis: Create new features and analyze patterns in the data.
+- Feature Engineering & Analysis: Create new features and analyze patterns in the data.
 
--** Clustering & Unsupervised Learning: Apply clustering to explore fraud patterns without labels.
+- Clustering & Unsupervised Learning: Apply clustering to explore fraud patterns without labels.
 
 - Model Development & Evaluation: Build, train, and evaluate classification models.
 
-**Visualization & Insights: Visualize key trends and highlight important fraud indicators.
+- Visualization & Insights: Visualize key trends and highlight important fraud indicators.
 
-- **Final Documentation: Summarize findings and prepare the final report and presentation.
+- Final Documentation: Summarize findings and prepare the final report and presentation.
 
 ## Getting Started
 **To run the Repository locally: **    
