@@ -1,4 +1,4 @@
-## Credit Card Fraud Detection and Analysis
+# Credit Card Fraud Detection and Analysis
 # Graduation Project – DEPI Initiative
 # Ministry of Communications and Information Technology
 
