@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection and Analysis
-# Graduation Project – DEPI Initiative
-# Ministry of Communications and Information Technology
+### Graduation Project – DEPI Initiative
+### Ministry of Communications and Information Technology
 
 🔍 Overview
 This machine learning project focuses on detecting fraudulent credit card transactions using structured transactional data. The end-to-end pipeline covers data preprocessing, feature engineering, unsupervised clustering, model training, evaluation, and visualization.
