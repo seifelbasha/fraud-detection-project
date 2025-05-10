@@ -24,7 +24,12 @@ The primary objective is to predict whether a transaction is fraudulent, based o
 
 - Final Documentation: Summarize findings and prepare the final report and presentation.
 
+kaggle dataset link
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Getting Started
 To run the Repository locally:    
    ```bash
    git clone https://github.com/seifelbasha/fraud-detection-project
+
+
